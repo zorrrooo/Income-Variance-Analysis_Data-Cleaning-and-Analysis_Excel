@@ -1,4 +1,4 @@
-#Steps to Analyze Income Variance from Scratch
+# Steps to Analyze Income Variance from Scratch
 ###1.Transferred data to a new sheet
 ###2.Bold headings
 ###3.Space adjustment
