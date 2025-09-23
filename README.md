@@ -17,5 +17,9 @@
 ### 16. VLOOKUP was used on Base Income Tab
 ### 17. Created another column Variance to get income variance and computed the difference between base pay and actual pay
 ### 18. Created last column as Yes and No for identifying variance using conditional formatting and highlighted if there is a variance (Yes)
-### 19. Corrected date format in application date column under format cell setting. 
+### 19. Corrected date format in application date column under format cell setting
+### 20. Summary Statistics - maximum/ minimum/ average of actual salary
+### 21. Pivot Table summary - segregated income by gender with totals
+### 22. Visual representation of salary variance
+
 
