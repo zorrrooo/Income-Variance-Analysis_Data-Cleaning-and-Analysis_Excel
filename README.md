@@ -22,7 +22,7 @@
 ### 21. Pivot Table summary - segregated income by gender with totals
 ### 22. Visual representation of salary variance
 
-#Shuffled Variance File
+# Shuffled Variance File
 ### 1. Shuffled the data under variance table to show disordered data for fetching the exact match
 ### 2. Removed more columns in both tabs to alter the VLOOKUP formula but to display accurate results
 ### 3. Results are still accurate assuming that only 500 employees got paid from a total 3000 list
