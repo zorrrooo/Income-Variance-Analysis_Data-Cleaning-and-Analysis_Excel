@@ -27,5 +27,6 @@
 ### 2. Removed more columns in both tabs to alter the VLOOKUP formula but to display accurate results
 ### 3. Results are still accurate assuming that only 500 employees got paid from a total 3000 list
 ### 4. Used FREEZE option to freeze headings while scrolling down the list
-### 5. This file shows VLOOKUP is still best to match the exact employee salary targeting App ID by "fixing" some values in the formula marked by a $ sign
+### 5. This file shows VLOOKUP is still the best function to match the exact employee salary targeting App ID by "fixing" some values in the formula marked by a $ sign
+### 6. Same operation can be performed using INDEX and MATCH functions that I will upload in near future
 
