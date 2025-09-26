@@ -1,11 +1,11 @@
 # Steps to Analyze Income Variance from Scratch
-### 1. Transferred data to a new sheet
-### 2. Bold headings
-### 3. Space adjustment
+### 1. Transferred data to a new sheet that contains 3000 employees data including many characteristics
+### 2. Made headings bold
+### 3. Space adjustment for each cell to read the information completely
 ### 4. Applied filters on all headings/ columns
 ### 5. Used filters to catch any missing or null values
-### 6. Detected 636 job titles using remove duplicate function on Job title column
-### 7. Removed unimportant variables like date of birth, phone, address, city, zip code, country, years of experience status
+### 6. Detected 636 unique job titles using remove duplicate function on job title column
+### 7. Removed unimportant variables like date of birth, phone, address, city, zip code, country, years of experience status from base pay and variance tabs
 ### 8. Divided the salary by 12 to get per month income on Desired Salary  column by creating a new column as Base Pay
 ### 9. Changed cell formating to number to get a dollar symbol
 ### 10. Adjusted for decimals by removing decimals for simplification
@@ -22,4 +22,9 @@
 ### 21. Pivot Table summary - segregated income by gender with totals
 ### 22. Visual representation of salary variance
 
+#Shuffled Variance File
+### 1. Shuffled the data under variance table to show disordered data for fetching the exact match
+### 2. Removed more columns in both tabs to alter the VLOOKUP formula but to display accurate results
+### 3. Results are still accurate assuming that only 500 employees got paid from a total 3000 list
+### 4. Used FREEZE option to freeze headings while scrolling down the list
 
