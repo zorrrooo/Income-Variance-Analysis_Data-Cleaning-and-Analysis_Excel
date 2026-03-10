@@ -1,5 +1,5 @@
 # Business Impact
-### Built an employee income variance analysis dashboard to detect pay discrepancies by comparing base salary and current earnings for each employee. The tool enhances payroll transparency, improves accuracy and enables faster identification of compensation anomalies that helped accomplish 100% success rate by avoiding overpayment. 
+### Built an employee income variance analysis dashboard to detect pay discrepancies by comparing base salary and current earnings. The tool enhances payroll transparency, improves accuracy and enables faster identification of compensation anomalies that helped accomplish 100% success rate by avoiding overpayment. 
 
 
 # Steps to Analyze Income Variance from Scratch
