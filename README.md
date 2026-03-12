@@ -1,4 +1,4 @@
-### Employee Income Variance Analysis for Payroll Anomaly Detection
+# Employee Income Variance Analysis for Payroll Anomaly Detection
 
 ## Project Overview
 
