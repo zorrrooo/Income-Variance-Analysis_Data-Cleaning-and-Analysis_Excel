@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project analyzes employee income data by comparing base pay with current pay to identify compensation anomalies and inconsistencies. The model helps detect unexpected pay variations, improves payroll transparency, and supports financial oversight through structured variance analysis.
+This project analyzes employee income data by comparing base pay with current pay to identify compensation anomalies and inconsistencies. The model helps detect unexpected pay variations, improves payroll transparency, and supports financial oversight through structured variance analysis
 
 ## Business Problem
 
-Organizations managing large payroll datasets may experience inconsistencies in employee compensation due to system errors, delayed updates, or incorrect adjustments. Without a structured monitoring framework, these anomalies may remain undetected. This project aims to develop a simple analytical framework to detect unusual differences between employees’ base pay and current/ actual pay.
+Organizations managing large payroll datasets may experience inconsistencies in employee compensation due to system errors, delayed updates, or incorrect adjustments. Without a structured monitoring framework, these anomalies may remain undetected. This project aims to develop a simple analytical framework to detect unusual differences between employees’ base pay and current/ actual pay
 
 ## Data Description
 
@@ -36,11 +36,11 @@ k. Other variables in raw data were not considered including city, zip code, cou
 
 ## Analytical Approach
 
-a. The analysis compares base pay against current pay and calculates the percentage deviation to identify anomalies. 
+a. The analysis compares base pay against current pay and calculates the percentage deviation to identify anomalies
 
-b. Employees with unusually high positive or negative variance are flagged for further review.
+b. Employees with unusually high positive or negative variance are flagged for further review
 
-c. further review includes working on ERPs to check if employees were awarded some incentive due to extra effort in the pay period or maybe a temporary/ permanent pay increase. 
+c. further review includes working on ERPs to check if employees were awarded some incentive due to extra effort in the pay period or maybe a temporary/ permanent pay increase
 
 ## Tools Used
 
@@ -111,4 +111,4 @@ e. Regression analysis to find the casuality between important variables impacti
 f. Can be applied at the organization level for each department for comparison purposes
 
 ## Limitations
-Due to large dataset having 3000 employees, 18 vairables and several tabs, the analysis file cannot be viewed/ downloaded in GitHub. Screenshots and formulas shared above to off-set this challenge. 
+Due to large dataset having 3000 employees, 18 vairables and several tabs, the analysis file cannot be viewed/ downloaded in GitHub. Screenshots and formulas shared above to off-set this challenge 
