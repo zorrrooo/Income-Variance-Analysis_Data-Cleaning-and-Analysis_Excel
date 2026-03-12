@@ -10,7 +10,7 @@ Organizations managing large payroll datasets may experience inconsistencies in 
 
 ## Data Description
 
-A syntehtic data has been used for the analysis purpose that was created and downloaded from ChatGPT. The dataset includes employee compensation information such as:
+A syntehtic data has been created for the analysis purpose using ChatGPT. The dataset includes 3000 employees compensation information such as:
 
 a. Applicant/ Employee ID 
 
@@ -44,29 +44,35 @@ c. further review includes working on ERPs to check if employees were awarded so
 
 ## Tools Used
 
+ChatGPT:
+
+a. Synthetic Data - prompted to create a sample employee data for a typical organization
+
 Microsoft Excel: 
 
-a. Pivot Tables 
+a. Pivot Tables - data summary statistics (sum, count, average, sub-classes, standard deviation) to get familiarize with the data
 
-b. Conditional Formatting
+b. VLOOKUP - applied on Base Pay column in the Variance tab 
 
-c. Data Validation 
+c. Conditional Formatting - anamoly confirmation as "Yes" and no error as "No"
 
-d. Variance Calculations
+=IF(J2<>K2, "Yes", "No")
 
-e. Dashboard
+d. Variance Calculations - shows the exact increase or decrease from the actual pay
+
+=VLOOKUP(A2,'Base Pay'!$A$1:$L$3001, 12, 0)
+
+e. Dashboard - shows the summary statistics, gender-wise pay distribution, and variance confirmation visual
 
 ## Key Features of the Model
 
 a. Automated variance calculation between base pay and current pay 
 
-b. Conditional formatting to highlight abnormal pay changes 
+b. Conditional formatting to highlight and yield "Yes" abnormal pay changes
 
 c. Summary dashboard for payroll review 
 
-d. Department-level variance comparison 
-
-e. Easy monthly update for ongoing monitoring
+d. Easy monthly update for ongoing monitoring
 
 ## Key Insights
 
@@ -74,11 +80,9 @@ The analysis can highlight:
 
 a. Unusual compensation adjustments 
 
-b. Departments with higher pay variation 
+b. Potential payroll data entry errors 
 
-c. Potential payroll data entry errors 
-
-d. Employees with sudden pay increases or decreases
+c. Employees with sudden pay increases or decreases
 
 ## Business Impact
 
@@ -103,3 +107,8 @@ c. Visualization using Power BI or Tableau
 d. Time-series analysis of compensation trends 
 
 e. Regression analysis to find the casuality between important variables impacting the pay rate
+
+f. Can be applied at the organization level for each department for comparison purposes
+
+## Limitations
+Due to large dataset having 3000 employees, 18 vairables and several tabs, the analysis file cannot be viewed/ downloaded in GitHub. Screenshots and formulas shared above to off-set this challenge. 
