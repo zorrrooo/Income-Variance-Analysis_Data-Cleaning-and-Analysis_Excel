@@ -98,19 +98,21 @@ The model improves payroll monitoring by enabling faster detection of compensati
 
 Potential enhancements include:
 
-a. Automated anomaly detection using statistical thresholds
 
-b. Integration with payroll databases
+a. A synthetic data could be created and entire end-to-end process could be ran using AI tools to avoid manual work - Mostly.ai (synthetic data) and Julius.ai (analysis)
 
-c. Visualization using Power BI or Tableau
+b. Automated anomaly detection using statistical thresholds
 
-d. Time-series analysis of compensation trends 
+c. Integration with payroll databases
 
-e. Regression analysis to find the casuality between important variables impacting the pay rate
+d. Visualization using Power BI or Tableau
 
-f. Can be applied at the organization level for each department for comparison purposes
+e. Time-series analysis of compensation trends 
 
-g. A synthetic data could be created and entire end-to-end process could be ran using AI tools to avoid manual work - Mostly.ai (synthetic data) and Julius.ai (analysis)
+f. Regression analysis to find the casuality between important variables impacting the pay rate
+
+g. Can be applied at the organization level for each department for comparison purposes
+
 
 ## Limitations
 Due to large dataset having 3000 employees, 18 vairables and several tabs, the analysis file cannot be viewed/ downloaded in GitHub. Screenshots and formulas shared above to off-set this challenge 
