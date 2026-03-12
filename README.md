@@ -111,7 +111,7 @@ e. Time-series analysis of compensation trends
 
 f. Regression analysis to find the casuality between important variables impacting the pay rate
 
-g. Can be applied at the organization level for each department for comparison purposes
+g. Can be applied at the organization level to track and compare departments and performance
 
 
 ## Limitations
