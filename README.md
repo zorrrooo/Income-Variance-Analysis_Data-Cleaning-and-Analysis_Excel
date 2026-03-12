@@ -1,6 +1,4 @@
-## Project Title
-
-Employee Income Variance Analysis for Payroll Anomaly Detection
+### Employee Income Variance Analysis for Payroll Anomaly Detection
 
 ## Project Overview
 
@@ -46,7 +44,17 @@ c. further review includes working on ERPs to check if employees were awarded so
 
 ## Tools Used
 
-Microsoft Excel: Pivot Tables | Conditional Formatting | Data Validation | Variance Calculations | Dashboard
+Microsoft Excel: 
+
+a. Pivot Tables 
+
+b. Conditional Formatting
+
+c. Data Validation 
+
+d. Variance Calculations
+
+e. Dashboard
 
 ## Key Features of the Model
 
