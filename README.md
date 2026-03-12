@@ -54,7 +54,7 @@ a. Pivot Tables - data summary statistics (sum, count, average, sub-classes, sta
 
 b. VLOOKUP - applied on Base Pay column in the Variance tab 
 
-c. Conditional Formatting - anamoly confirmation as "Yes" and no error as "No"
+c. Conditional Formatting - anamoly confirmation highlighted with a "Yes"
 
 =IF(J2<>K2, "Yes", "No")
 
