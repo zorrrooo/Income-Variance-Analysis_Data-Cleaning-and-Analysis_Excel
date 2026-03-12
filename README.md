@@ -110,5 +110,7 @@ e. Regression analysis to find the casuality between important variables impacti
 
 f. Can be applied at the organization level for each department for comparison purposes
 
+g. A synthetic data could be created and entire end-to-end process could be ran using AI tools to avoid manual work - Mostly.ai (synthetic data) and Julius.ai (analysis)
+
 ## Limitations
 Due to large dataset having 3000 employees, 18 vairables and several tabs, the analysis file cannot be viewed/ downloaded in GitHub. Screenshots and formulas shared above to off-set this challenge 
