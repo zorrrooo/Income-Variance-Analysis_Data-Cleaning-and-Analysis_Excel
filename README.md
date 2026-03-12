@@ -94,4 +94,4 @@ c. Visualization using Power BI or Tableau
 
 d. Time-series analysis of compensation trends 
 
-e. Regression analysis to find the casuality between important variables impacting a single variable (pay rate)
+e. Regression analysis to find the casuality between important variables impacting the pay rate
