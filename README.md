@@ -15,15 +15,25 @@ Organizations managing large payroll datasets may experience inconsistencies in 
 A syntehtic data has been used for the analysis purpose downloaded from ChatGPT. The dataset includes employee compensation information such as:
 
 a. Applicant/ Employee ID 
+
 b. Application Date
+
 c. First Name
+
 d. Last Name 
+
 e. Gender
+
 f. State
+
 g. Education Level
+
 h. Experience
+
 i. Job Title
+
 j. Pay
+
 k. Other variables in raw data were not considered including city, zip code, country, address, date of birth etc. 
 
 ## Analytical Approach
