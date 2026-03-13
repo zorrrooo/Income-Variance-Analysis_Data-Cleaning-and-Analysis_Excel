@@ -46,7 +46,7 @@ c. further review includes working on ERPs to check if employees were awarded so
 
 ChatGPT:
 
-a. Synthetic Data - prompted to create a sample employee data for a typical organization
+a. Synthetic Data - prompted to create a sample employees dataset for a typical organization
 
 Microsoft Excel: 
 
